@@ -35,6 +35,8 @@ const IGNORES: &[&str] = &[
     // "Regex reach/reach-lang/docs/build",
     // "Regex reach/reach-lang/examples/.*/build",
     // "Regex reach/reach-lang/hs/t/.*/build",
+    "Regex .*/thegame/android/SDL",
+    "Regex .*/thegame/android/TheGame/app/build",
 ];
 
 const LAPTOP_HOST: &str = "10.13.13.3";
