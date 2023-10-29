@@ -1,5 +1,5 @@
 [package]
-name = "synctool"
+name = "sync"
 version = "0.1.0"
 authors = ["user <no email given>"]
 edition = "2018"
